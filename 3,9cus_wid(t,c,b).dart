@@ -8,8 +8,7 @@ Widget build(BuildContext context) {
 return MaterialApp(
 home: Scaffold(
 appBar: AppBar(
-title: Text("Flutter Widgets"),
-),
+title: Text("Flutter Widgets"),),
 body: Center(
 child: Column(
 mainAxisAlignment: MainAxisAlignment.center,
